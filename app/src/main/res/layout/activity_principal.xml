@@ -100,7 +100,8 @@
                 android:text="@string/borrar"
                 android:fontFamily="serif"
                 android:textStyle="normal|italic"
-                android:textAllCaps="false" />
+                android:textAllCaps="false"
+                android:onClick="limpiar" />
 
         </LinearLayout>
 

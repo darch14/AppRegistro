@@ -83,4 +83,13 @@ public class PrincipalActivity extends AppCompatActivity {
         }
         return true;
     }
+
+    public void limpiar(View v){
+        cajaPNombre.setText("");
+        cajaSNombre.setText("");
+        cajaPApellido.setText("");
+        cajaSApellido.setText("");
+        cajaEdad.setText("");
+        cajaSexo.setText("");
+    }
 }
