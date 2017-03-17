@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppRegistro</string>
+    <string name="registro_de_personas">REGISTRO DE PERSONAS</string>
+    <string name="primer_nombre">Primer Nombre</string>
+    <string name="segundo_nombre">Segundo Nombre</string>
+    <string name="primer_apellido">Primer Apellido</string>
+    <string name="segundo_apellido">Segundo Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="mostrar">Mostrar</string>
+    <string name="borrar">Borrar</string>
+</resources>
