@@ -90,7 +90,8 @@
                 android:text="@string/mostrar"
                 android:textAllCaps="false"
                 android:textStyle="normal|italic"
-                android:fontFamily="serif" />
+                android:fontFamily="serif"
+                android:onClick="mostrar" />
 
             <Button
                 android:layout_width="wrap_content"

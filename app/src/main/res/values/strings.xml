@@ -9,4 +9,13 @@
     <string name="sexo">Sexo</string>
     <string name="mostrar">Mostrar</string>
     <string name="borrar">Borrar</string>
+    <string name="error_1">Por favor digite bien su primer nombre</string>
+    <string name="error_2">Por favor digite bien su segundo nombre</string>
+    <string name="error_3">Por favor digite bien su primer apellido</string>
+    <string name="error_4">Por favor digite bien su segundo apellido</string>
+    <string name="error_5">Por favor digite bien su edad</string>
+    <string name="error_6">Por favor digite bien su sexo</string>
+    <string name="mensaje_1">Hola</string>
+    <string name="mensaje_2">tu edad es</string>
+    <string name="mensaje_3">y tu sexo es</string>
 </resources>

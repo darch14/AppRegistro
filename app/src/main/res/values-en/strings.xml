@@ -10,4 +10,13 @@
     <string name="primer_nombre">First name</string>
     <string name="registro_de_personas">REGISTRATION OF PEOPLE</string>
     <string name="sexo">Sex</string>
+    <string name="error_1">Please enter your first name</string>
+    <string name="error_2">Please enter your second name</string>
+    <string name="error_3">Please enter your first last name</string>
+    <string name="error_4">Please enter your second last name</string>
+    <string name="error_5">Please type your age well</string>
+    <string name="error_6">Please type your sex correctly</string>
+    <string name="mensaje_1">Hi</string>
+    <string name="mensaje_2">your age is</string>
+    <string name="mensaje_3">and your sex is</string>
 </resources>
