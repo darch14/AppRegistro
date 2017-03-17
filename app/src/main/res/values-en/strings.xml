@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppRegistry</string>
+    <string name="borrar">Delete</string>
+    <string name="edad">Age</string>
+    <string name="mostrar">To show</string>
+    <string name="primer_apellido">First last name</string>
+    <string name="segundo_apellido">Second last name</string>
+    <string name="segundo_nombre">Second name</string>
+    <string name="primer_nombre">First name</string>
+    <string name="registro_de_personas">REGISTRATION OF PEOPLE</string>
+    <string name="sexo">Sex</string>
+</resources>
